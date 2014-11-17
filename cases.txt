@@ -30,4 +30,15 @@ Wrong password, Password doesn't match confirmation, Password is too short (mini
 7. Input to search field issue Subject from step#6 and press Eneter key;
 8. Find issue # from the step 6 at the search results list.
 
-BLA BLA
+1
+2
+3
+4
+5
+
+6
+
+7
+7
+8
+9
