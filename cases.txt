@@ -1,0 +1,31 @@
+#1
+1. Open http://demo.redmine.org/;
+2. Click "Sign in";
+3. Enter "max123" to Login field, "17811v" to Password field;
+4. Click "my account"-> "Change password";
+5. Enter input data to Password, New password, Confirmation fields to get following errors: 
+Wrong password, Password doesn't match confirmation, Password is too short (minimum is 4 characters).
+
+
+#2
+1. Login to http://demo.redmine.org/;
+2. Click "create your own project" at the Home page;
+3. Input to Name "Max test project#", Description "Max test project#", mtp# to "Identifier"
+4. Open http://demo.redmine.org/projects/mtp#;
+5. Click "New issue";
+6. Fill "Subject" and "Description" with "test issue#" text;
+7. Select as Assignee "Me";
+8. Click "Create" button;
+9. Remember issue #;
+10. Click "My page";
+11. Find issue # from the step 9 at the "Issues assigned to me" list.
+
+#3
+1. Login to http://demo.redmine.org/;
+2. Open http://demo.redmine.org/projects/mtp#;
+3. Click "New issue";
+4. Fill "Subject" and "Description" with "test issue#" text;
+5. Click "Create" button;
+6. Remember issue #;
+7. Input to search field issue Subject from step#6 and press Eneter key;
+8. Find issue # from the step 6 at the search results list.
