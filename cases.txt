@@ -29,3 +29,6 @@ Wrong password, Password doesn't match confirmation, Password is too short (mini
 6. Remember issue #;
 7. Input to search field issue Subject from step#6 and press Eneter key;
 8. Find issue # from the step 6 at the search results list.
+
+
++1
